@@ -4,6 +4,6 @@ I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm pla
 ## MySkills
 Python, Github
 
-## Get in Touch
+## Contacts
 
-telegram, diskord
+telegram, discord
