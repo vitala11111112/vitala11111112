@@ -6,4 +6,4 @@ Python, Github
 
 ## Contacts
 
-telegram, discord
+[![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tereshchenko_vitalik)
