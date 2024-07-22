@@ -2,7 +2,7 @@
 ## Aboat me
 I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm playing in DOTA 2
 ## MySkills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,PyCharm)
 
 ## Contacts
 
