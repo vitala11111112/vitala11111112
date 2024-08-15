@@ -15,13 +15,6 @@ I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm pla
 
 
 
-<div align="center">
-  ### :fire: My Stats :  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-
-
-
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g5dno0ZHkwdnhmeDE5NHYwNHZydnd0N3RkOXJjb2twY3FkcWo4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfMgXkdenBIecRkDRt/giphy-downsized-large.gif" width="300" height = "500"/>
