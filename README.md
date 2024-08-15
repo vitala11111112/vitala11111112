@@ -18,7 +18,7 @@ I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm pla
 
 ### :fire: My Stats :
 
-
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 
 
