@@ -8,5 +8,5 @@ I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm pla
 
 [![telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tereshchenko_vitalik)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src=["https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"](https://tenor.com/ru/view/pudge-dance-gif-22048875) width="100"/>
 </div>
