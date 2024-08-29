@@ -4,7 +4,7 @@ I'm learning Python, eight grader, my school is 239 in Saint-Petersburg, I'm pla
 ## MySkills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,github,pycharm)
 <p align="center">
-    <img align='center' src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Cookie"/>
+    <img align='center' src="https://leetcard.jacoblin.cool/krutoivitalaehkere?theme=dark&font=Pacifico"/>
 
 </p>
 
